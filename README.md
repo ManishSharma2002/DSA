@@ -1,2 +1,3 @@
-# java
-practicing java and DSA
+# Dsa in Java
+for practicing  java
+
